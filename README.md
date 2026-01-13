@@ -2,7 +2,7 @@
 
 ## 🌟 Project Overview
 
-BragBoard is a modern, web-based appreciation and recognition system designed to strengthen community engagement and boost morale in organizations, workplaces, and student communities. It provides a dedicated, transparent platform for users to publicly acknowledge the contributions and achievements of their peers through "shoutouts"—short messages of gratitude or praise.
+BragBoard is a modern, web-based appreciation and recognition system designed to strengthen community engagement and boost morale in organizations, workplaces, and student communities. It provides a dedicated, transparent platform for users to publicly acknowledge the contributions and achievements of their peers through "shoutouts" short messages of gratitude or praise.
 
 By centralizing recognition, BragBoard fosters a culture of visibility and appreciation, solving the common problem of achievements getting lost in crowded emails or chat channels.
 
